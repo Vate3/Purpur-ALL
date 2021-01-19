@@ -13,7 +13,6 @@ shutdown-message: • Serwer został wyłączony. •
 messages:
   no-permission: '&c• Nie posiadasz odpowiednich uprawnień. •'
   kick:
-    authentication-servers-down: ''
     connection-throttle: • Poczekaj chwilę przed ponownym połączeniem. •
     flying-player: • Latanie nie jest włączone na tym serwerze. •
     flying-vehicle: • Latanie nie jest włączone na tym serwerze. •
