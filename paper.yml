@@ -195,7 +195,7 @@ world-settings:
       MinimumTicks: 100
       MaximumTicks: 600
     despawn-ranges:
-      soft: 28
+      soft: 24
       hard: 96
     frosted-ice:
       enabled: true
