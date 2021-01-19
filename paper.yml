@@ -114,8 +114,8 @@ world-settings:
     tnt-entity-height-nerf: 0
     phantoms-do-not-spawn-on-creative-players: true
     phantoms-only-attack-insomniacs: true
-    non-player-arrow-despawn-rate: -1
-    creative-arrow-despawn-rate: -1
+    non-player-arrow-despawn-rate: 40
+    creative-arrow-despawn-rate: 40
     spawner-nerfed-mobs-should-jump: false
     entities-target-with-follow-range: false
     zombie-villager-infection-chance: -1.0
