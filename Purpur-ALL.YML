@@ -1,13 +1,13 @@
------------
-Bukkit.YML:
------------
+###############
+# Bukkit.YML: #
+###############
 
 query-plugins: false
 shutdown-message: • Serwer został wyłączony. •
 
-----------
-Paper.YML:
-----------
+##############
+# Paper.YML: #
+##############
 
   server-name: • Nieznany serwer. •
 messages:
@@ -18,9 +18,9 @@ messages:
     flying-player: • Latanie nie jest włączone na tym serwerze. •
     flying-vehicle: • Latanie nie jest włączone na tym serwerze. •
 
------------
-Spigot.YML:
------------
+###############
+# Spigot.YML: #
+###############
 
 messages:
   whitelist: • Nie jesteś na white liście. •
@@ -32,8 +32,8 @@ messages:
 
 item-despawn-rate: 3000
 
-------------
-Tuinity.YML:
-------------
+################
+# Tuinity.YML: #
+################
 
 kick-message: '&c• Wysłano za dużo pakietów. •'
